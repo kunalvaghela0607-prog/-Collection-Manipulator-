@@ -123,7 +123,8 @@ while True :
     
     elif a == 6: 
         print("Exit the programme")  
-        print("Thank you for using Programme")  
+        print("Thank you for using Programme")
+        break  
     else:
         print("Invalid choice. Please try again.")
-        break
+        
